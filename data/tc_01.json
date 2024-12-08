@@ -1,0 +1,6 @@
+{    
+    "project": "Web Application",
+    "column": "To Do",
+    "task": "Implement user authentication",
+    "tags": ["Feature", "High Priority"]
+}

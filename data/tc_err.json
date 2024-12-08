@@ -1,0 +1,8 @@
+{    
+    "project": "Web Application",
+    "column": "To Do",
+    "task": "Implement user authentication",
+    "tags": ["Feature", "High Priority"],
+    "owner": "Sarah Chen",
+    "date": "3/24/2024"
+}
